@@ -1,1 +1,2 @@
-Dairy Management 
+Dairy Management System
+SRI VENKATEWARA DISTRIBUTORS
